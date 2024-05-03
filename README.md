@@ -1,4 +1,4 @@
-# Linux_system_admin_projects
+# Linux_Security_Automation_Projects
 Welcome to the System Administration Projects Repository! This repository contains various system administration projects and configurations aimed at simplifying and enhancing system management tasks. Below, you'll find a brief overview of the projects included in this repository along with instructions on how to use them.
 
 ## Projects Overview
